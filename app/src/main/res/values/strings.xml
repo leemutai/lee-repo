@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyIntents_Lee</string>
+    <string name="title1">Welcome to intents</string>
+    <string name="btn1">Open another activity</string>
+    <string name="btn2">Open another activity</string>
+    <string name="title2">This is activity 2</string>
+
+
+</resources>
